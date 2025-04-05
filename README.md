@@ -1,3 +1,5 @@
+![PRs merged](https://img.shields.io/badge/PRs%20merged-10-blue)
+
 <h1 align="center">Hi 👋, I'm Arnob Bokshi</h1>
 <h3 align="center">Competitive Programmer | Software Developer | Enthusiastic Learner</h3>
 
