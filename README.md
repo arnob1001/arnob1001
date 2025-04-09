@@ -7,7 +7,7 @@
 
 ### 🌟 About Me  
 
-- 🔭 **Currently working on:** [Integrated Public Safety and Service Management System]([https://github.com/arnob1001/Integrated-public-safety-and-service-management-system](https://github.com/arnob1001/IPSM))  
+- 🔭 **Currently working on:** [Integrated Public Safety and Service Management System](https://github.com/arnob1001/IPSM]) 
 - 🌱 **Learning:** Next.js and other backend tools  
 - 💬 **Ask me about:** Data Structures & Algorithms and modern frontend technologies  
 - 📫 **Reach me at:** **ararnob1415@gmail.com**  
