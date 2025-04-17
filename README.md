@@ -21,9 +21,9 @@ using namespace success;
 
 class Arnob {
 public:
-  const string passion = "Solving complex problems";
+  const string passion = "Solving coding problems";
   vector<string> skills = {"C++", "JavaScript", "React", "Next.js"};
-  vector<string> currentFocus = {"Backend Architecture", "System Design"};
+  vector<string> currentFocus = {"Backend Development"};
 
   void createMagic() {
     while (true) {
