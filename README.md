@@ -41,8 +41,8 @@ public:
 
 - **Languages:** C++, JavaScript, TypeScript  
 - **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Prisma  
-- **Databases:** MySQL, MongoDB  
+- **Backend:** Next.js, Prisma  
+- **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Docker, Linux
 
 ---
