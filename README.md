@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 **Coding Journey**
 
-c++
+```c++
 #include <ambition>
 using namespace success;
 
@@ -33,7 +33,8 @@ public:
       deploy();
     }
   }
-};
+};```
+
 🛠 Tech Arsenal
 Languages
 C++
@@ -61,10 +62,7 @@ Linux
 
 📈 GitHub Analytics
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arnob1001&show_icons=true&theme=radical&include_all_commits=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1001&theme=radical" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob1001&layout=compact&theme=radical&langs_count=8" /> </p>
-🏆 Achievements
-trophy
 
 🤝 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/arnob-bokshi-1b88a2323/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/arnob1111/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a> <a href="https://auth.geeksforgeeks.org/user/ararno47m4"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> </a> </p>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p> ```
-Key enhancements made:
