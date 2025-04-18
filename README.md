@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Arnob Bokshi</h1>
 
 <h1 align="center">
-  Competitive+Programmer | Software+Developer | Tech+Explorer
+  Competitive Programmer | Software Developer | Tech Explorer
 </h1>
 
 <p align="center">
