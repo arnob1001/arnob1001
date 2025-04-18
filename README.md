@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Arnob Bokshi</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Software+Developer;Tech+Explorer" alt="Typing SVG 2" />
-</p>
+<h1 align="center">
+  Competitive+Programmer | Software+Developer | Tech+Explorer
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob1001&color=blueviolet&style=flat" alt="Profile Views" />
