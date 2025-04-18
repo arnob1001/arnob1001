@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Arnob Bokshi</h1>
 
-<h1 align="center">
+<h3 align="center">
   Competitive Programmer | Software Developer | Tech Explorer
-</h1>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob1001&color=blueviolet&style=flat" alt="Profile Views" />
