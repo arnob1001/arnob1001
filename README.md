@@ -5,9 +5,9 @@
 </h3>
 
 ```
- Enthusiastic programmer with strong skills in Data structures, OOP, databases, and front-end technologies. Solved
- 700+ problems on various coding platforms and proficient in C++, JavaScript, debugging, and Git. Passionate about
- problem-solving and learning new technologies.
+ Enthusiastic programmer with strong skills in Data structures, OOP, databases, and front-end technologies.
+ Solved 700+ problems on various coding platforms and proficient in C++, JavaScript, debugging, and Git.
+ Passionate about problem-solving and learning new technologies.
 ```
 
 <p align="center">
