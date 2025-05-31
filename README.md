@@ -8,9 +8,8 @@
  Enthusiastic programmer with strong skills in Data structures, OOP, databases, and front-end technologies.
  Solved 700+ problems on various coding platforms and proficient in C++, JavaScript, debugging, and Git.
  Passionate about problem-solving and learning new technologies.
- Check out my portfolio site : https://arnobbokshi.vercel.app/ 
 ```
-
+<p>Check out my portfolio site : <a href="https://arnobbokshi.vercel.app/"><p> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob1001&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/arnob1001">
